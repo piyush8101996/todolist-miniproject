@@ -1,0 +1,10 @@
+.bodys{
+    margin: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #5555;
+    display: flex;
+    flex-direction: column;
+    
+}

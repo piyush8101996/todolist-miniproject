@@ -1,0 +1,15 @@
+.btn{
+    padding: 5px;
+    margin: 5px;
+    color:black;
+    font-family:Rowdies ;
+}
+button:hover{
+    background-color: #546582
+}
+.filter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}

@@ -1,0 +1,20 @@
+.donebtn{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.text{
+    margin: 5px;
+    padding: 5px;
+    font-family:Rowdies ;
+}
+.todo{
+    display: flex;
+}
+.done{
+    background-color: chartreuse;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
